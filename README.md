@@ -1,7 +1,7 @@
 <h1 align="center">Hola soy :wave: David Galvis :sunglasses: Professional Developer :zap:</h1>
 <h3 align="center">Un entusiasta Professional Developer con una reciente certificación de Digital House. Mi pasión por la tecnología me ha llevado a explorar diversos lenguajes de programación y adentrarme en metodologías ágiles. Siempre en búsqueda de nuevos desafíos y soluciones creativas, estoy emocionado por contribuir y colaborar en proyectos emocionantes. ¡Bienvenido/a a mi rincón digital! 🚀💻</h3>
 
-- 📫 Como contactarme **davidgalvis05@hotmail.com**
+
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
@@ -13,3 +13,6 @@
 
 
 </p>
+
+
+- 📫 Como contactarme **davidgalvis05@hotmail.com**
