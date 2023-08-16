@@ -8,7 +8,7 @@
 </p>
 
 
-<p align="center"> - 📫 Como contactarme **davidgalvis05@hotmail.com**</p>
+<p align="center"> - 📫 Como contactarme davidgalvis05@hotmail.com</p>
 
 <h3 align="center">Conéctate conmigo:</h3>
 <p align="center">
