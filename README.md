@@ -8,32 +8,23 @@
 
 
 <h3 align="center"> :zap: Methodological skills:</h3>
-  
-<ul align="center">
-  <li>Lean</li>
-  <li>Kanban</li>
-  <li>Scrum</li>
-  <li>Learning Agility</li>
-  <li>Design Thinking</li>
-</ul>
 
 <p align="center">Lean</p>
-<p align="center">Lean</p>
-<p align="center">Lean</p>
-
+<p align="center">Kanban</p>
+<p align="center">Scrum</p>
+<p align="center">Learning Agility</p>
+<p align="center">Design Thinking</p>
 
 
 <h3 align="center"> :zap: Soft skills:</h3>
 
-<ul align="center">
-  <li>Trabajo en equipo</li>
-  <li>Proactivo</li>
-  <li>Comunicación Asertiva </li>
-  <li>Resolución de problemas</li>
-  <li>Adaptabilidad</li>
-  <li>Empatía</li>
-  <li>Responsable</li>
-</ul>
+<p align="center">Trabajo en equipo</p>
+<p align="center">Proactivo</p>
+<p align="center">Comunicación Asertiva</p>
+<p align="center">Resolución de problemas</p>
+<p align="center">Adaptabilidad</p>
+<p align="center">Empatía</p>
+<p align="center">Responsable</p>
 
 
 <p align="center"> - 📫 Como contactarme davidgalvis05@hotmail.com</p>
