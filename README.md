@@ -8,23 +8,26 @@
 
 <h3 align="center"> :zap: Methodological skills:</h3>
 
-<p align="center">
-  * Lean
-  * Kanban
-  * Scrum
-  * Learning Agility
-  * Design Thinking
-</p>
+<ul align="center">
+  <li>Lean</li>
+  <li>Kanban</li>
+  <li>Scrum</li>
+  <li>Learning Agility</li>
+  <li>Design Thinking</li>
+</ul>
+
 
 <h3 align="center"> :zap: Soft skills:</h3>
 
-* Trabajo en equipo
-* Positivia
-* Responsable
-* Enfocada al detalle
-* Emprendedora
-* Proactiva
-* Manejo de tareas múltiples
+<ul align="center">
+  <li>Trabajo en equipo</li>
+  <li>Proactivo</li>
+  <li>Comunicación Asertiva </li>
+  <li>Resolución de problemas</li>
+  <li>Adaptabilidad</li>
+  <li>Empatía</li>
+  <li>Responsable</li>
+</ul>
 
 
 <p align="center"> - 📫 Como contactarme davidgalvis05@hotmail.com</p>
