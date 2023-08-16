@@ -11,7 +11,7 @@
 
 <h3 align="center"> :zap: Methodological skills:</h3>
 
-<div align="center">
+<div align="center" display="flex" aling-items="center">
 <p align="left">Lean</p>
 <p align="center">Kanban</p>
 <p align="center">Scrum</p>
