@@ -10,7 +10,6 @@
 </p>
 
 <h2></h2>
-<h2></h2>
 <h3 align="center"> :zap: Methodological skills:</h3>
 
 <p align="center">Lean</p>
@@ -19,7 +18,6 @@
 <p align="center">Learning Agility</p>
 <p align="center">Design Thinking</p>
 
-<h2></h2>
 <h2></h2>
 <h3 align="center"> :zap: Soft skills:</h3>
 
